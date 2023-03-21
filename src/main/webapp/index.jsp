@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello Aston! Hello Green Team! Изменения для spr111</h2>
+<h2>Hello Aston!</h2>
 </body>
 </html>
