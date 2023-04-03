@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 public class PizzaController {
     @GetMapping("/pizza")
     public String pizzaList() {
-        return "Hello! Look at this pizzaz!";
+        return "Hello! Look at this pizzas!";
     }
 }
