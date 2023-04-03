@@ -9,4 +9,6 @@ public class PizzaController {
     public String pizzaList() {
         return "Hello! Look at this pizzas!";
     }
+
+    FORtEST
 }
